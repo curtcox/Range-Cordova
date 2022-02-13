@@ -1,8 +1,10 @@
-## Install
- Get the Bluetooth serial plugin: 
- ~~~~ cordova plugin add cordova-plugin-bluetooth-serial ~~~~ 
+# Install
+Get the Bluetooth serial plugin: 
+```
+cordova plugin add cordova-plugin-bluetooth-serial 
+```
 
-## Methods
+# Methods
 
 ## range.list(success: function(device_array))
 
@@ -21,7 +23,7 @@ Disconnect from a Range Dial.
 Checks the status of the connection of the currently connected Range Dial.
 
 
-## Properties
+# Properties
 
 ## range.connectedDevice
 
